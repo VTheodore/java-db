@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Hamburger",
+    "price": 0.00,
+    "category": "Invalid"
+  },
+  {
+    "name": "Hamburger",
+    "price": -5.00,
+    "category": "Invalid"
+  },
+  {
+    "name": "x",
+    "price": 1.00,
+    "category": "Invalid"
+  },
+  {
+    "name": "Invaliddddddddddddddddddddddddd",
+    "price": 1.00,
+    "category": "Invalid"
+  },
+  {
+    "name": "Invalid",
+    "price": 1.00,
+    "category": "x"
+  },
+  {
+    "name": "Invalid",
+    "price": 1.00,
+    "category": "Invaliddddddddddddddddddddddddd"
+  },
+  {
+    "name": "Hamburger",
+    "price": 5.00,
+    "category": "Beef"
+  },
+  {
+    "name": "Hamburger",
+    "price": 1.00,
+    "category": "Beef"
+  },
+  {
+    "name": "Cheeseburger",
+    "price": 6.00,
+    "category": "Beef"
+  },
+  {
+    "name": "Quarter Pounder",
+    "price": 5.50,
+    "category": "Beef"
+  },
+  {
+    "name": "Double Cheeseburger",
+    "price": 6.50,
+    "category": "Beef"
+  },
+  {
+    "name": "Daily Double",
+    "price": 7.50,
+    "category": "Beef"
+  },
+  {
+    "name": "Ranger Burger",
+    "price": 5.50,
+    "category": "Beef"
+  },
+  {
+    "name": "BBQ Burger",
+    "price": 8.00,
+    "category": "Beef"
+  },
+  {
+    "name": "Bacon Deluxe",
+    "price": 9.00,
+    "category": "Beef"
+  },
+  {
+    "name": "Triple Cheeseburger",
+    "price": 10.00,
+    "category": "Beef"
+  },
+  {
+    "name": "Premium chicken sandwich",
+    "price": 7.00,
+    "category": "Chicken"
+  },
+  {
+    "name": "Snack Wrap",
+    "price": 4.40,
+    "category": "Chicken"
+  },
+  {
+    "name": "Premium Chicken Wrap",
+    "price": 5.40,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "price": 2.50,
+    "category": "Chicken"
+  },
+  {
+    "name": "Crispy Chicken Deluxe",
+    "price": 3.50,
+    "category": "Chicken"
+  },
+  {
+    "name": "Grilled Chicken Deluxe",
+    "price": 4.00,
+    "category": "Chicken"
+  },
+  {
+    "name": "Tasty Basket",
+    "price": 7.00,
+    "category": "Chicken"
+  },
+  {
+    "name": "Chicken Tenders",
+    "price": 4.00,
+    "category": "Chicken"
+  },
+  {
+    "name": "Fries",
+    "price": 1.50,
+    "category": "Fries"
+  },
+  {
+    "name": "Crispy Fries",
+    "price": 2.00,
+    "category": "Fries"
+  },
+  {
+    "name": "Curly Fries",
+    "price": 2.20,
+    "category": "Fries"
+  },
+  {
+    "name": "Cola",
+    "price": 1.20,
+    "category": "Drinks"
+  },
+  {
+    "name": "Orange Drink",
+    "price": 1.20,
+    "category": "Drinks"
+  },
+  {
+    "name": "Purple Drink",
+    "price": 1.30,
+    "category": "Drinks"
+  },
+  {
+    "name": "Ice Cream",
+    "price": 1.10,
+    "category": "Desserts"
+  },
+  {
+    "name": "Cookie",
+    "price": 0.60,
+    "category": "Desserts"
+  },
+  {
+    "name": "Cake",
+    "price": 2.50,
+    "category": "Desserts"
+  },
+  {
+    "name": "Cesar Salad",
+    "price": 2.10,
+    "category": "Salads"
+  },
+  {
+    "name": "Tuna Salad",
+    "price": 3.00,
+    "category": "Salads"
+  },
+  {
+    "name": "Just Lettuce",
+    "price": 0.40,
+    "category": "Salads"
+  },
+  {
+    "name": "Minion",
+    "price": 2.20,
+    "category": "Toys"
+  },
+  {
+    "name": "Batman",
+    "price": 3.00,
+    "category": "Toys"
+  },
+  {
+    "name": "Mario",
+    "price": 2.20,
+    "category": "Toys"
+  },
+  {
+    "name": "Luigi",
+    "price": 2.10,
+    "category": "Toys"
+  },
+  {
+    "name": "Bowser",
+    "price": 2.00,
+    "category": "Toys"
+  }
+]

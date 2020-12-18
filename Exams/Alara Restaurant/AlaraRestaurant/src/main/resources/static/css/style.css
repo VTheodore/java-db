@@ -1,0 +1,26 @@
+.navbar-background {
+    background-color: #E41B23;
+    color: white;
+}
+
+body {
+    background: url("https://res.cloudinary.com/rado-cloud/image/upload/v1542874852/restaurant.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron-background {
+    background-color: burlywood;
+    color: white;
+}
+
+.hr-background {
+    background-color: #E41B23;
+    height: 1px;
+}
+
+.footer-background {
+    color: #E41B23;
+}

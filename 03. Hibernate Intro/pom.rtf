@@ -1,0 +1,61 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 <?xml version="1.0" encoding="UTF-8"?>\
+<project xmlns="http://maven.apache.org/POM/4.0.0"\
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"\
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">\
+    <modelVersion>4.0.0</modelVersion>\
+\
+    <groupId>soft_uni</groupId>\
+    <artifactId>introduction-to-hibernate</artifactId>\
+    <version>1.0-SNAPSHOT</version>\
+\
+    <build>\
+        <plugins>\
+            <plugin>\
+                <groupId>org.apache.maven.plugins</groupId>\
+                <artifactId>maven-compiler-plugin</artifactId>\
+                <configuration>\
+                    <source>12</source>\
+                    <target>12</target>\
+                </configuration>\
+            </plugin>\
+        </plugins>\
+    </build>\
+\
+    <dependencies>\
+        <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->\
+        <dependency>\
+            <groupId>org.hibernate</groupId>\
+            <artifactId>hibernate-core</artifactId>\
+            <version>5.4.2.Final</version>\
+        </dependency>\
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->\
+        <dependency>\
+            <groupId>mysql</groupId>\
+            <artifactId>mysql-connector-java</artifactId>\
+            <version>8.0.16</version>\
+        </dependency>\
+\
+        <!-- https://mvnrepository.com/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.1-api -->\
+        <dependency>\
+            <groupId>org.hibernate.javax.persistence</groupId>\
+            <artifactId>hibernate-jpa-2.1-api</artifactId>\
+            <version>1.0.2.Final</version>\
+        </dependency>\
+        <dependency>\
+            <groupId>javax.xml.bind</groupId>\
+            <artifactId>jaxb-api</artifactId>\
+            <version>2.3.0</version>\
+        </dependency>\
+\
+    </dependencies>\
+</project>\
+}
